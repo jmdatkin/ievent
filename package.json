@@ -1,0 +1,22 @@
+{
+  "name": "ievent",
+  "version": "1.0.0",
+  "description": "Smarter events for JS",
+  "main": "ievent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Atkin",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdatkin/ievent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmdatkin/ievent/issues"
+  },
+  "homepage": "https://github.com/jmdatkin/ievent#readme"
+}
